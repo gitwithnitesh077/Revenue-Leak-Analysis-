@@ -70,8 +70,8 @@ This project integrates **SQL Server** for data modeling and **Power BI** for in
 ### 🌍 Revenue Leak by Region  
 <img width="1434" height="731" alt="Screenshot 2025-11-09 160710" src="https://github.com/user-attachments/assets/0aa8a14c-4835-4707-9883-dca1e69fdd50" />
 
-### 💳 Revenue Leak by Payment Status  
-<img width="1187" height="733" alt="Screenshot 2025-11-09 160912" src="https://github.com/user-attachments/assets/94a74ad5-a28f-4e89-ae25-69654760dc54" />
+### 💳 Revenue Leak by Plan name 
+<img width="1387" height="747" alt="image" src="https://github.com/user-attachments/assets/d3301a6f-fd5b-4a17-8341-eb518ea5e1f4" />
 
 ### 👥 Top Leaking Customers  
 <img width="1387" height="741" alt="image" src="https://github.com/user-attachments/assets/618a07ba-2cd6-48a8-80d5-5a8879be6766" />
